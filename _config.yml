@@ -1,13 +1,14 @@
 # Site settings
-title: Clean Blog
+title: Carina Boo
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+email: carinaboo@berkeley.edu
+description: "Designer, developer, and lifelong learner"
+baseurl: ""
+url: "http://carinaboo.github.io/"
+twitter_username: carinaboo
+github_username:  carinaboo
+facebook_username:  carina.boo
+linkedin_username:  carinaboo
 
 # Build settings
 markdown: kramdown
